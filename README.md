@@ -36,7 +36,6 @@ Important: After installing node, please run `npm install i` or `npm install` to
 
 
 ### CLI (yarn)
-* location - `cli`
 * commands
   * new - `node src/index.js new`
   * list - `node src/index.js list`
