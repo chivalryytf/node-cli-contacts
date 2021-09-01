@@ -1,0 +1,16 @@
+{
+  "name": "node-cli-contacts",
+  "version": "1.0.0",
+  "description": "a simple nodejs project to keep contacts using cli",
+  "main": "src/index.js",
+  "author": "chivalryytf",
+  "license": "MIT",
+  "scripts": {
+    "new": "node src/index.js new",
+    "list": "node src/index.js list"
+  },
+  "dependencies": {
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2"
+  }
+}
